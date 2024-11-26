@@ -8,7 +8,7 @@ elasticsearch==1.4.0
 django-extensions==1.5.5
 django-docopt-command==0.3.0
 requests==2.20.0
-urllib3==1.24.2
+urllib3==1.26.5
 certifi==2018.04.16
 easydict==1.6
 django-dirtyfields==0.7
